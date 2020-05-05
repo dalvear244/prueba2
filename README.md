@@ -1,4 +1,4 @@
-## COMO USAR GIT TUTORIAL COMPLETO
+## COMO USAR GIT: hago lo que quiero papa TUTORIAL COMPLETO
 1. Hola a todos
 ">>git add ..."donde los ... representan los archivos a subir
 2. crear el commit con el comando ">>git commit -m '...'" donde los ...representan el nombre del commit
